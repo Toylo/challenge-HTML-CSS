@@ -1,0 +1,22 @@
+header {
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    font-weight: 400, 700;
+}
+
+img {
+    width: 200px;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.left {
+    text-align: left;
+}
+
+body {
+    background-color: rgb(145, 248, 248);
+    font-size: large 18px;
+}
